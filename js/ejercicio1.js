@@ -24,7 +24,3 @@ function interes(){
 
 }
 
-function borrar(){
-    document.formulario.cantidad.value="";
-    document.formulario.sueldoti.value="";
-}
